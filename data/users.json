@@ -1,0 +1,155 @@
+[
+    {
+        "user_id": "8865df26-e9fc-4b59-a8cc-f5c09834fa11",
+        "first_name": "Lucía",
+        "last_name": "Martínez",
+        "email": "lucia@gmail.com",
+        "password": "1234",
+        "role": "client",
+        "registration_date": "2025-04-01T08:08:17.751720"
+    },
+    {
+        "user_id": "bc0b098a-a345-4809-945f-c3401d449d4f",
+        "first_name": "Pedro",
+        "last_name": "Sosa",
+        "email": "pedro@tienda.com",
+        "password": "admin",
+        "role": "employee",
+        "registration_date": "2025-01-01T08:08:17.751742"
+    },
+    {
+        "user_id": "e43067b8-d542-4286-aed0-9357d5b251ff",
+        "first_name": "Marisa",
+        "last_name": "Dalton",
+        "email": "marisa@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-06T08:08:31.452002"
+    },
+    {
+        "user_id": "fe9a04aa-7f6a-4ddd-bb2e-abd6c501f1f9",
+        "first_name": "Facu",
+        "last_name": "Shine",
+        "email": "facu@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T12:14:01.913370"
+    },
+    {
+        "user_id": "971ed25d-accc-4a4c-9c4b-b4a6f0a1c049",
+        "first_name": "Lucas",
+        "last_name": "Pal",
+        "email": "lucas@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T12:15:06.003461"
+    },
+    {
+        "user_id": "9061dc44-b2e8-41da-a9e4-6f34ee256eb4",
+        "first_name": "Carla",
+        "last_name": "Paz",
+        "email": "carla@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T13:13:06.050931"
+    },
+    {
+        "user_id": "324ca7c8-e8ee-4bd6-a4ff-fcabb7a341f1",
+        "first_name": "Juan",
+        "last_name": "Smith",
+        "email": "juan@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T13:18:55.704841"
+    },
+    {
+        "user_id": "1d2cba19-d0c9-431d-b12a-d75be1cbcfcb",
+        "first_name": "Hans",
+        "last_name": "Miller",
+        "email": "hans@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T13:39:48.033287"
+    },
+    {
+        "user_id": "caaac990-225d-4fd5-80f3-8a1762d3812f",
+        "first_name": "Lara",
+        "last_name": "Kroft",
+        "email": "lara@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T14:48:34.708856"
+    },
+    {
+        "user_id": "fe3061c7-391d-426c-bb85-2a1000fa1f50",
+        "first_name": "John",
+        "last_name": "Marsi",
+        "email": "john@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T15:09:24.344339"
+    },
+    {
+        "user_id": "a3d4b77e-aa53-46be-b500-776383a11812",
+        "first_name": "Liz",
+        "last_name": "Perez",
+        "email": "liz@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T15:25:29.771810"
+    },
+    {
+        "user_id": "179dcaa1-edec-4953-84a7-d31d088c5b05",
+        "first_name": "María Lourdes",
+        "last_name": "Del Canto",
+        "email": "maria@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T15:26:56.211831"
+    },
+    {
+        "user_id": "365fb375-12db-4b47-a97d-1fdeb3eb78df",
+        "first_name": "Felipe",
+        "last_name": "Prie",
+        "email": "fvc@gmail.com",
+        "password": "FVC",
+        "role": "client",
+        "registration_date": "2025-05-18T15:36:07.525757"
+    },
+    {
+        "user_id": "a82794e3-b909-490f-bc7f-5855a0664780",
+        "first_name": "Santiago",
+        "last_name": "Esnola",
+        "email": "santi@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T16:43:27.942738"
+    },
+    {
+        "user_id": "fb94972c-b929-4201-88d2-794b0aac2477",
+        "first_name": "Andrea",
+        "last_name": "Polka",
+        "email": "andrea@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T17:32:02.913142"
+    },
+    {
+        "user_id": "fef06e13-0fe8-4ba7-b8ab-4981596c29a7",
+        "first_name": "Baltasar",
+        "last_name": "Canlis",
+        "email": "balta@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T17:39:04.349325"
+    },
+    {
+        "user_id": "a1029de0-a297-4f12-9557-49bdc1ee02bd",
+        "first_name": "Ilo",
+        "last_name": "Vans",
+        "email": "ilo@gmail.com",
+        "password": "123",
+        "role": "client",
+        "registration_date": "2025-05-18T18:00:17.518650"
+    }
+]

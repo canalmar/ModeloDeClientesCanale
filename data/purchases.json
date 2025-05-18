@@ -1,0 +1,186 @@
+[
+    {
+        "purchase_id": "b01cc455-64e6-4e03-87cc-28bda57f1132",
+        "user_email": "lucia@gmail.com",
+        "product_id": "P030",
+        "product_title": "¿A qué sabe la luna?",
+        "price": 4700.0,
+        "date": "2025-05-02T20:28:40.386886"
+    },
+    {
+        "purchase_id": "a4b162db-6436-42d5-93d7-b55c775c15c8",
+        "user_email": "lucia@gmail.com",
+        "product_id": "P027",
+        "product_title": "Cocodrilo se enamora",
+        "price": 4100.0,
+        "date": "2025-05-17T20:42:09.463940"
+    },
+    {
+        "purchase_id": "50d418b2-7a3d-4c3d-988a-2b21aaf163ab",
+        "user_email": "marisa@gmail.com",
+        "product_id": "P006",
+        "product_title": "La buena suerte",
+        "price": 4600.0,
+        "date": "2025-05-18T08:09:53.729000"
+    },
+    {
+        "purchase_id": "b67b1604-3654-4d92-98fa-99a0b9580ed3",
+        "user_email": "marisa@gmail.com",
+        "product_id": "P007",
+        "product_title": "El mapa de los anhelos",
+        "price": 6700.0,
+        "date": "2025-05-18T12:05:42.153046"
+    },
+    {
+        "purchase_id": "d67fd188-248e-475e-8a5e-95c23c49f4e2",
+        "user_email": "marisa@gmail.com",
+        "product_id": "P020",
+        "product_title": "Adivina cuánto te quiero",
+        "price": 3900.0,
+        "date": "2025-05-18T12:10:01.166331"
+    },
+    {
+        "purchase_id": "8248ee91-d7cd-4ac2-8349-6a948879f5c8",
+        "user_email": "lucia@gmail.com",
+        "product_id": "P010",
+        "product_title": "El café de los pequeños milagros",
+        "price": 5900.0,
+        "date": "2025-05-18T12:12:58.919874"
+    },
+    {
+        "purchase_id": "fea8e0e5-876c-41d0-bc20-09753f3b373e",
+        "user_email": "marisa@gmail.com",
+        "product_id": "P019",
+        "product_title": "El monstruo de colores",
+        "price": 4200.0,
+        "date": "2025-05-18T13:10:08.856382"
+    },
+    {
+        "purchase_id": "462ed3d9-902c-48bc-b766-501699327d99",
+        "user_email": "marisa@gmail.com",
+        "product_id": "P014",
+        "product_title": "Una corte de rosas y espinas",
+        "price": 6800.0,
+        "date": "2025-05-18T14:47:07.850291"
+    },
+    {
+        "purchase_id": "a54d0180-35c8-4d99-82a3-f4983d75b134",
+        "user_email": "john@gmail.com",
+        "product_id": "P020",
+        "product_title": "Adivina cuánto te quiero",
+        "price": 3900.0,
+        "date": "2025-05-18T15:09:49.840086"
+    },
+    {
+        "purchase_id": "4be567b3-8a42-4562-a824-b1054af6c080",
+        "user_email": "lucia@gmail.com",
+        "product_id": "P001",
+        "product_title": "Comer, rezar, amar",
+        "price": 5800.0,
+        "date": "2025-05-18T15:14:29.524062"
+    },
+    {
+        "purchase_id": "f3b75ffa-a531-462b-96d7-1ad61c1c4031",
+        "user_email": "facu@gmail.com",
+        "product_id": "P008",
+        "product_title": "El chico que dibujaba constelaciones",
+        "price": 5500.0,
+        "date": "2025-05-18T15:24:47.701119"
+    },
+    {
+        "purchase_id": "3c7e1013-c314-4e01-b053-004221a3811f",
+        "user_email": "liz@gmail.com",
+        "product_id": "P006",
+        "product_title": "La buena suerte",
+        "price": 4600.0,
+        "date": "2025-05-18T15:26:08.270814"
+    },
+    {
+        "purchase_id": "ba1bbe7c-34b0-49e8-9c58-b9f7c8a9457c",
+        "user_email": "maria@gmail.com",
+        "product_id": "P014",
+        "product_title": "Una corte de rosas y espinas",
+        "price": 6800.0,
+        "date": "2025-05-18T15:27:24.245640"
+    },
+    {
+        "purchase_id": "8c2e9652-fe37-4be0-bdf2-dcfcd59f6636",
+        "user_email": "fvc@gmail.com",
+        "product_id": "P027",
+        "product_title": "Cocodrilo se enamora",
+        "price": 4100.0,
+        "date": "2025-05-18T15:40:12.827951"
+    },
+    {
+        "purchase_id": "1c74d5a0-7132-465f-b3ab-a7edf2ce0bbf",
+        "user_email": "fvc@gmail.com",
+        "product_id": "P027",
+        "product_title": "Cocodrilo se enamora",
+        "price": 4100.0,
+        "date": "2025-05-18T15:47:53.308345"
+    },
+    {
+        "purchase_id": "79e1a99e-4a4a-4f57-9cc4-26653db09312",
+        "user_email": "facu@gmail.com",
+        "product_id": "P017",
+        "product_title": "El poder del ahora",
+        "price": 7200.0,
+        "date": "2025-05-18T16:30:05.959840"
+    },
+    {
+        "purchase_id": "21a25f09-987c-442f-9d84-4b6d2a95e2c8",
+        "user_email": "santi@gmail.com",
+        "product_id": "P002",
+        "product_title": "La librería de los corazones solitarios",
+        "price": 6100.0,
+        "date": "2025-05-18T16:43:51.475004"
+    },
+    {
+        "purchase_id": "7856e0ce-147a-4e56-b147-4725cacc779b",
+        "user_email": "andrea@gmail.com",
+        "product_id": "P006",
+        "product_title": "La buena suerte",
+        "price": 4600.0,
+        "date": "2025-05-18T17:32:47.582436"
+    },
+    {
+        "purchase_id": "88500f8d-865e-4a9a-a443-da2cea3d6429",
+        "user_email": "andrea@gmail.com",
+        "product_id": "P013",
+        "product_title": "Antes de diciembre",
+        "price": 5900.0,
+        "date": "2025-05-18T17:34:54.220531"
+    },
+    {
+        "purchase_id": "8adb60b9-187d-4758-a7f9-5ddbac2f9239",
+        "user_email": "marisa@gmail.com",
+        "product_id": "P021",
+        "product_title": "Elmer",
+        "price": 4100.0,
+        "date": "2025-05-18T17:37:50.000382"
+    },
+    {
+        "purchase_id": "058efcf5-e5ab-4093-bf35-0a541ea0e91f",
+        "user_email": "balta@gmail.com",
+        "product_id": "P023",
+        "product_title": "Abuela",
+        "price": 4000.0,
+        "date": "2025-05-18T17:39:24.336607"
+    },
+    {
+        "purchase_id": "4e83054c-a2e1-4863-a76b-1ccf06d38568",
+        "user_email": "marisa@gmail.com",
+        "product_id": "P019",
+        "product_title": "El monstruo de colores",
+        "price": 4200.0,
+        "date": "2025-05-18T17:59:39.894215"
+    },
+    {
+        "purchase_id": "eab8b54c-99dc-443c-acfe-13ee2cf4620a",
+        "user_email": "ilo@gmail.com",
+        "product_id": "P013",
+        "product_title": "Antes de diciembre",
+        "price": 5900.0,
+        "date": "2025-05-18T18:00:47.367898"
+    }
+]
